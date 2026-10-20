@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "决策约束论（注意力预算下的决策、行动与担责）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-10-20
+license: CC-BY-NC-4.0
+repository-code: "https://gitee.com/mofahuizhang/ABDK"
+keywords:
+  - 决策
+  - 协同
+  - 规划
+  - 安全
+  - 授权链
+  - 责任链
+  - 算力弹性
